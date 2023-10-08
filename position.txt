@@ -1,0 +1,5 @@
+Task 2
+Absolute positioning positions an element relative to its nearest positioned ancestor or the viewport, taking it out of the document flow. Relative positioning adjusts an element's position relative to its normal flow, affecting the layout of surrounding elements while keeping it in the document flow. The choice depends on design requirements and desired element behavior.
+
+Task-5
+In CSS, the z-index property is used to control the stacking order of elements on a web page. It determines which elements appear in front of or behind other elements when they overlap in the web page's layout. The z-index property takes an integer value, and elements with higher z-index values are stacked in front of elements with lower values. 
